@@ -1,0 +1,14 @@
+#dashboard{
+  background-image: url("https://wallpaperaccess.com/full/124383.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+  height:100vh;
+}
+i{
+  color: rgb(16, 16, 235);
+  font-family:serif
+}
+#dino{
+  background-color: blueviolet;
+}
